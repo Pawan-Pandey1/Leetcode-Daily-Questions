@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0274-h-index) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
