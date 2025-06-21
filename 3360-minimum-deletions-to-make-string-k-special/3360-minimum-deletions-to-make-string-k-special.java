@@ -6,22 +6,23 @@ class Solution {
             freq[ch - 'a']++;
         }
 
+        Arrays.sort(freq);
+
         int result = word.length();
+        int cumulativeDeleted = 0;
 
         for (int i = 0; i < 26; i++) {
 
-            int deletion = 0;
+            int delete = cumulativeDeleted;
 
-            for (int j = 0; j < 26; j++) {
-                if (i == j) {
-                    continue;
-                } else if (freq[j] < freq[i]) {
-                    deletion += freq[j];
-                } else if (Math.abs(freq[j] - freq[i]) > k) {
-                    deletion += Math.abs(freq[j] - freq[i] - k);
+            for (int j = 25; j > i; j--) {
+                if (freq[j] - freq[i] <= k) {
+                    break;
                 }
+                delete += Math.abs(freq[j] - freq[i] - k);
             }
-            result = Math.min(result, deletion);
+            result = Math.min(result, delete);
+            cumulativeDeleted += freq[i];
         }
         return result;
     }
