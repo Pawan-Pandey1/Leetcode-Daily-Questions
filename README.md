@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0238-product-of-array-except-self) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
