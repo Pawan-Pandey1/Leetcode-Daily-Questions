@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0189-rotate-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0189-rotate-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Memoization
