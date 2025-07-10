@@ -1,6 +1,6 @@
 class Solution {
     public void reverse(int start,int end,int[] nums){
-        while(start<end){
+        while(start<=end){
             int temp=nums[start];
             nums[start]=nums[end];
             nums[end]=temp;
