@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0274-h-index) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
