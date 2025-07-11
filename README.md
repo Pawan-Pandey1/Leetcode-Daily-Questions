@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2479-meeting-rooms-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2479-meeting-rooms-iii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting Sort
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2479-meeting-rooms-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
