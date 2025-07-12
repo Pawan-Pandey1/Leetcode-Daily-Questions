@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0283-move-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0283-move-zeroes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Memoization
