@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Bit Manipulation
 |  |
