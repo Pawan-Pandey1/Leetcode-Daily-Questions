@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting Sort
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0283-move-zeroes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Memoization
 |  |
 | ------- |
