@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0274-h-index) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
