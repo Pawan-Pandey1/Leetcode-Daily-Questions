@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0062-unique-paths) |
 | [3548-find-the-count-of-good-integers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Stack
