@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1813-maximum-erasure-value) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2479-meeting-rooms-iii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
