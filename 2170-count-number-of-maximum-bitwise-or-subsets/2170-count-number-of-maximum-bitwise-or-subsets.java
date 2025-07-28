@@ -1,5 +1,6 @@
 class Solution {
-    private int solve(int i, int currOr, int[] nums, int maxOR) {
+    //DP memonization approach
+    private int solve(int i, int currOr, int[] nums, int maxOR, int[][] dp) {
         if (i == nums.length) {
             if (currOr == maxOR) {
                 return 1;
@@ -7,11 +8,17 @@ class Solution {
                 return 0;
             }
         }
-        int take = solve(i + 1, currOr | nums[i], nums, maxOR);
 
-        int notTake = solve(i + 1, currOr, nums, maxOR);
+        if (dp[i][currOr] != -1) {
+            return dp[i][currOr];
+        }
+        int take = solve(i + 1, currOr | nums[i], nums, maxOR, dp);
 
-        return take + notTake;
+        int notTake = solve(i + 1, currOr, nums, maxOR, dp);
+
+        dp[i][currOr] = take + notTake;
+
+        return dp[i][currOr];
     }
 
     public int countMaxOrSubsets(int[] nums) {
@@ -22,7 +29,12 @@ class Solution {
             maxOR |= nums[i];
         }
 
+        int[][] dp = new int[n + 1][maxOR + 1];
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
+        }
+
         int currOr = 0;
-        return solve(0, currOr, nums, maxOR);
+        return solve(0, currOr, nums, maxOR, dp);
     }
 }
