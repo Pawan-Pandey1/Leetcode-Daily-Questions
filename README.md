@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0152-maximum-product-subarray) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
