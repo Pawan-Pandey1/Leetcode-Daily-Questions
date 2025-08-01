@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0152-maximum-product-subarray) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0152-maximum-product-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
