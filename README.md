@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Enumeration
 |  |
 | ------- |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3791-fruits-into-baskets-iii) |
+## Matrix
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
