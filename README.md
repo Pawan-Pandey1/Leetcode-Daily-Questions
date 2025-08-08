@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0189-rotate-array) |
+| [0826-soup-servings](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0152-maximum-product-subarray) |
+| [0826-soup-servings](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -372,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
