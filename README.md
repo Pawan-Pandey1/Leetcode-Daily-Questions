@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
