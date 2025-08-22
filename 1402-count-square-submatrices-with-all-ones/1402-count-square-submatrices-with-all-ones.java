@@ -1,30 +1,43 @@
 class Solution {
+    private int m;
+    private int n;
+
+    private int solve(int i, int j, int[][] matrix, int[][] dp) {
+        if (i >= m || j >= n) {
+            return 0;
+        }
+
+        if (matrix[i][j] == 0) {
+            return 0;
+        }
+
+        if (dp[i][j] != -1) {
+            return dp[i][j];
+        }
+
+        int right = solve(i, j + 1, matrix, dp);
+        int digonal = solve(i + 1, j + 1, matrix, dp);
+        int down = solve(i + 1, j, matrix, dp);
+
+        return dp[i][j] = 1 + Math.min(right, Math.min(digonal, down));
+    }
+
     public int countSquares(int[][] matrix) {
-        int n = matrix.length;
-        int m = matrix[0].length;
+         m = matrix.length;
+         n = matrix[0].length;
 
-        int[][] dp = new int[n][m];
+        int[][] dp = new int[m][n];
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
+        }
 
-        for (int i = 0; i < n; i++)
-            dp[i][0] = matrix[i][0];
-        for (int j = 0; j < m; j++)
-            dp[0][j] = matrix[0][j];
+        int result = 0;
 
-        for (int i = 1; i < n; i++) {
-            for (int j = 1; j < m; j++) {
-                if (matrix[i][j] == 0)
-                    dp[i][j] = 0;
-                else {
-                    dp[i][j] = 1 + Math.min(dp[i - 1][j], Math.min(dp[i - 1][j - 1], dp[i][j - 1]));
-                }
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                result += solve(i, j, matrix, dp);
             }
         }
-        int sum = 0;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                sum += dp[i][j];
-            }
-        }
-        return sum;
+        return result;
     }
 }
