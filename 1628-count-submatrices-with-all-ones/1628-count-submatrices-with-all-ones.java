@@ -1,28 +1,40 @@
 class Solution {
-    public int numSubmat(int[][] mat) {
-        int n=mat.length;
-        int m=mat[0].length;
-        int[][] newmat=new int[n][m];
-        for(int i=0;i<n;i++){
-            newmat[i][m-1]= mat[i][m-1]==0 ? 0 : 1;
-            for(int j=m-2;j>=0;j--){
-                newmat[i][j]= mat[i][j]==0 ? 0 : newmat[i][j+1]+1;
+    private int countSubarraysOfOnes(int[] rowMask) {
+        int consOne = 0;
+        int count = 0;
+
+        for (int i = 0; i < rowMask.length; i++) {
+            if (rowMask[i] != 1) {
+                consOne = 0;
+            } else {
+                consOne++;
             }
-        }
-        int count=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                int minwidth=newmat[i][j];
-                for(int d=i;d<n;d++){
-                    if(newmat[d][j]==0) {
-                        break;
-                    }
-                    minwidth=Math.min(newmat[d][j],minwidth);
-                    
-                    count+=minwidth;
-                }
-            }
+            count += consOne;
         }
         return count;
+    }
+
+    public int numSubmat(int[][] mat) {
+        int rows = mat.length;
+        int cols = mat[0].length;
+
+        int totalCount = 0;
+
+        for (int startRow = 0; startRow < rows; startRow++) {
+
+            int[] rowMask = new int[cols];
+            for (int i = 0; i < cols; i++) {
+                rowMask[i] = 1;
+            }
+
+            for (int endRow = startRow; endRow < rows; endRow++) {
+
+                for (int col = 0; col < cols; col++) {
+                    rowMask[col] = rowMask[col] & mat[endRow][col];
+                }
+                totalCount += countSubarraysOfOnes(rowMask);
+            }
+        }
+        return totalCount;
     }
 }
