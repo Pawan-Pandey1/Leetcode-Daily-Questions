@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1628-count-submatrices-with-all-ones) |
