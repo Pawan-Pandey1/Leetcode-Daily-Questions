@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1006-vowel-spellchecker](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1006-vowel-spellchecker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [1006-vowel-spellchecker](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1006-vowel-spellchecker) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
