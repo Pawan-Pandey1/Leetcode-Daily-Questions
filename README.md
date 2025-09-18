@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3678-design-task-manager](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3678-design-task-manager) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3678-design-task-manager) |
 ## Linked List
 |  |
 | ------- |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
