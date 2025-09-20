@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0954-maximum-sum-circular-subarray) |
+| [3827-implement-router](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3827-implement-router) |
 ## Linked List
 |  |
 | ------- |
@@ -466,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
