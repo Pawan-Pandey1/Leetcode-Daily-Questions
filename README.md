@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0062-unique-paths) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0326-power-of-three) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1006-vowel-spellchecker](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1006-vowel-spellchecker) |
