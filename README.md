@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0283-move-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1917-maximum-average-pass-ratio) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -536,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
