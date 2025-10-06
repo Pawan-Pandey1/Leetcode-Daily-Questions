@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0794-swim-in-rising-water](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2023-design-movie-rental-system) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0386-lexicographical-numbers) |
+| [0794-swim-in-rising-water](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0794-swim-in-rising-water) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
 |  |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0794-swim-in-rising-water](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0794-swim-in-rising-water) |
 ## Hash Function
 |  |
 | ------- |
@@ -515,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -543,4 +549,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
