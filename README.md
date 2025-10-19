@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1006-vowel-spellchecker) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0900-reordered-power-of-2) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0386-lexicographical-numbers) |
 | [0794-swim-in-rising-water](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
 |  |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Bitmask
 |  |
 | ------- |
