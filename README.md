@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3827-implement-router) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Counting Sort
 |  |
 | ------- |
