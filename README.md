@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2998-count-symmetric-integers) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Pawan-Pandey1/Leetcode-Daily-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Brainteaser
 |  |
 | ------- |
